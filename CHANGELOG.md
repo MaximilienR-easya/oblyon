@@ -1,5 +1,8 @@
 ## Changelog ##
 
+### Version 3.0.3 - Compatibility 18.0.x - 20-alpha (2024/05/23)
+- Fix Contract expired services link
+
 ### Version 3.0.2 - Compatibility 14.0.x - 20-alpha (2024/05/22)
 - Update ckeditor configuration
 - Fix deployment from another customdir 
